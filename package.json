@@ -1,0 +1,11 @@
+{
+  "name": "facebook_desktop",
+  "version": "1.0.0",
+  "description": "Facebook Desktop Clone",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app"
+  },
+  "author": "Ronald Kelechi",
+  "license": "ISC"
+}

@@ -83,7 +83,7 @@ body{
             width: 520px;
             height: 50px;
             background-color: #2671e8;
-            color: white;
+            color: $white;
             font-weight: bold;
             border:none;
             border-radius: 2px;
@@ -127,9 +127,9 @@ body{
             font-weight: 700;
             font-size: 32sp;
             height: 40px;
-            font-family: var(--primaryFont);
+            font-family: $primaryFont;
             justify-self: center;
-            color: white;
+            color: $white;
             z-index: 20;
             background-color: $buttonColor;
         }

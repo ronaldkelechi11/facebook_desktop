@@ -85,7 +85,7 @@ body .top .btn {
   width: 520px;
   height: 50px;
   background-color: #2671e8;
-  color: white;
+  color: "#f4f4f4";
   font-weight: bold;
   border: none;
   border-radius: 2px;
@@ -129,9 +129,9 @@ body .top button {
   font-weight: 700;
   font-size: 32sp;
   height: 40px;
-  font-family: var(--primaryFont);
+  font-family: "Segoe UI";
   justify-self: center;
-  color: white;
+  color: "#f4f4f4";
   z-index: 20;
   background-color: #00a401;
 }
